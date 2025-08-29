@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarteDeVisite</string>
+    <string name="nom">Kouya Tosten</string>
+    <string name="function">Developer</string>
+    <string name="number">+225 01 01 53 63 58</string>
+    <string name="email">kouyatosten@gmail.com</string>
+    <string name="location">Abidjan/Adjamé</string>
+</resources>
